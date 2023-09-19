@@ -17,6 +17,6 @@
 ### 2. Run DSPSrealcleaning.py. 
 #### This process removes any json files which doesn't have 6 pokemon on each team and either doesn't have at least 3 faints for the losing team or at least 10 turns in the entire battle. All the cleaned json files will be placed in a filtered directory called filteredgen9ou-matchjsons.
 ### 3. Run DSPSjson2extraction.py. 
-#### This will extract relevant info from each json file, and convert all of the info into a txt file for each json and store them in a directory called gen9ou-stat_summary.
+#### This will extract relevant info from each json file, and write it into a txt file for each json. These txt files are stored in a directory called gen9ou-stat_summary.
 ### 4. Run any of the other DSPS files (DSPS_move_cat_counts.py, DSPS_rating_distribution.py, DSPS_stat_counts.py, DSPS_type_counts.py).
 #### You will see the output graph displayed on Plotly.
