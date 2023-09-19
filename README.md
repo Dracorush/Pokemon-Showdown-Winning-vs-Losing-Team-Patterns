@@ -6,6 +6,7 @@
 ## fuzzywuzzy
 ## plotly
 # Steps to run the code
-### 1. Run DSPSjson2extraction.py
-### 2. Run DSPSrealcleaning.py
-### 3. Run any of the other DSPS files
+### 1. Run DSPSiterativejson.py
+### 2. DSPSrealcleaning.py
+### 3. Run DSPSjson2extraction.py
+### 4. Run any of the other DSPS files
