@@ -9,6 +9,7 @@
 ## BeautifulSoup4
 ## FuzzyWuzzy
 ## Plotly
+## Pandas
 # Steps to run the code
 ### 1. Open the zip file containing all of the code.
 ### 2. Enter the directory containing Pokemon-Showdown-Winning-vs-Losing-Team-Patterns-main on your terminal using the cd command. Then enter this directory by running cd Pokemon-Showdown-Winning-vs-Losing-Team-Patterns on your terminal.
