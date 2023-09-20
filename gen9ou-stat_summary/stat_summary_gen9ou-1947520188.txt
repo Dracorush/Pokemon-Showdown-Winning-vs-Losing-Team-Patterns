@@ -1,0 +1,151 @@
+julies101staccount's initial rating: 1362, final rating: 1348
+FilthyTryhardScum's initial rating: 1470, final rating: 1484
+
+
+Winning Team: Torkoal, Ogerpon-Hearthflame, Roaring Moon, Walking Wake, Hatterene, Great Tusk
+Losing Team: Samurott-Hisui, Ursaluna, Empoleon, Gholdengo, Clodsire, Iron Moth
+
+
+p1 (Loser) moves:  Toxic, Make It Rain, Blood Moon, Vacuum Wave, Calm Mind, Sludge Wave, Sacred Sword, Aqua Jet, Earth Power, Substitute, Energy Ball
+p2 (Winner) moves:  Flip Turn, Brick Break, Knock Off, Stealth Rock, U-turn, Ivy Cudgel, Yawn, Hydro Steam, Play Rough, Earthquake, Lava Plume
+
+
+p2 (Winner) Move Category Counts:
+Entry Hazard Moves: 0
+Entry Hazard Clear Moves: 0
+Priority Moves: 2
+Runswitch Moves: 0
+Status Moves: 1
+
+
+p1 (Loser) Move Category Counts:
+Entry Hazard Moves: 1
+Entry Hazard Clear Moves: 0
+Priority Moves: 0
+Runswitch Moves: 1
+Status Moves: 1
+
+Pokémon Types for Winning Team:
+Torkoal: Fire
+Ogerpon-Hearthflame: No type information
+Roaring Moon: Dragon, Dark
+Walking Wake: Water, Dragon
+Hatterene: Psychic, Fairy
+Great Tusk: Ground, Fighting
+
+Pokémon Types for Losing Team:
+Samurott-Hisui: Water, Dark
+Ursaluna: Ground, Normal
+Empoleon: Water, Steel
+Gholdengo: Steel, Ghost
+Clodsire: Poison, Ground
+Iron Moth: Fire, Poison
+
+
+Winning Team Resisting Counts (Dictionary):
+bug: 2
+dark: 2
+dragon: 1
+electric: 2
+fairy: 1
+fighting: 1
+fire: 3
+flying: 0
+ghost: 1
+grass: 2
+ground: 0
+ice: 1
+normal: 0
+poison: 1
+psychic: 2
+rock: 1
+steel: 2
+water: 2
+
+Losing Team Resisting Counts (Dictionary):
+bug: 4
+dark: 1
+dragon: 2
+electric: 1
+fairy: 4
+fighting: 3
+fire: 2
+flying: 2
+ghost: 1
+grass: 2
+ground: 0
+ice: 4
+normal: 2
+poison: 4
+psychic: 3
+rock: 3
+steel: 4
+water: 2
+
+Winning Team Weakness Counts (Dictionary):
+bug: 1
+dark: 0
+dragon: 2
+electric: 0
+fairy: 3
+fighting: 1
+fire: 0
+flying: 1
+ghost: 1
+grass: 1
+ground: 1
+ice: 2
+normal: 0
+poison: 1
+psychic: 1
+rock: 1
+steel: 1
+water: 2
+
+Losing Team Weakness Counts (Dictionary):
+bug: 1
+dark: 1
+dragon: 0
+electric: 2
+fairy: 1
+fighting: 2
+fire: 1
+flying: 0
+ghost: 1
+grass: 1
+ground: 4
+ice: 1
+normal: 0
+poison: 0
+psychic: 2
+rock: 1
+steel: 0
+water: 2
+
+Winning Team Resisting Counts (List):
+[0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 2, 2, 2, 2, 2, 2, 2, 3]
+
+Losing Team Resisting Counts (List):
+[0, 1, 1, 1, 2, 2, 2, 2, 2, 2, 3, 3, 3, 4, 4, 4, 4, 4]
+
+Winning Team Weakness Counts (List):
+[3, 2, 2, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0]
+
+Losing Team Weakness Counts (List):
+[4, 2, 2, 2, 2, 1, 1, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0]
+
+Total Stats for Winning Team:
+Hp: 446
+Atk: 528
+Def: 528
+Spa: 454
+Spd: 410
+Spe: 364
+
+Total Stats for Losing Team:
+Hp: 471
+Atk: 399
+Def: 383
+Spa: 529
+Spd: 467
+Spe: 359

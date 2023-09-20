@@ -1,0 +1,151 @@
+valakmtn's initial rating: 1134, final rating: 1102
+CNT JesusGP0000's initial rating: 1040, final rating: 1083
+
+
+Winning Team: Ursaluna, Dragapult, Clefable, Dondozo, Moltres, Kingambit
+Losing Team: Torkoal, Ogerpon-Hearthflame, Roaring Moon, Walking Wake, Great Tusk, Scream Tail
+
+
+p1 (Loser) moves:  Horn Leech, Flip Turn, Draco Meteor, Stealth Rock, Swords Dance, Protect, Encore, Rapid Spin, Play Rough, Ivy Cudgel, Yawn, Wish, Dazzling Gleam
+p2 (Winner) moves:  Rest, Body Press, Liquidation, Calm Mind, Flamethrower, Stealth Rock, Hex, Hurricane, Dragon Darts, Will-O-Wisp, Earth Power, Sleep Talk, Roost, Substitute, Moonblast
+
+
+p2 (Winner) Move Category Counts:
+Entry Hazard Moves: 1
+Entry Hazard Clear Moves: 1
+Priority Moves: 1
+Runswitch Moves: 0
+Status Moves: 1
+
+
+p1 (Loser) Move Category Counts:
+Entry Hazard Moves: 1
+Entry Hazard Clear Moves: 0
+Priority Moves: 0
+Runswitch Moves: 0
+Status Moves: 1
+
+Pokémon Types for Winning Team:
+Ursaluna: Ground, Normal
+Dragapult: Dragon, Ghost
+Clefable: Fairy
+Dondozo: Water
+Moltres: Fire, Flying
+Kingambit: Dark, Steel
+
+Pokémon Types for Losing Team:
+Torkoal: Fire
+Ogerpon-Hearthflame: No type information
+Roaring Moon: Dragon, Dark
+Walking Wake: Water, Dragon
+Great Tusk: Ground, Fighting
+Scream Tail: Fairy, Psychic
+
+
+Winning Team Resisting Counts (Dictionary):
+bug: 3
+dark: 2
+dragon: 2
+electric: 1
+fairy: 1
+fighting: 3
+fire: 3
+flying: 1
+ghost: 1
+grass: 3
+ground: 1
+ice: 2
+normal: 2
+poison: 2
+psychic: 1
+rock: 1
+steel: 3
+water: 2
+
+Losing Team Resisting Counts (Dictionary):
+bug: 2
+dark: 2
+dragon: 1
+electric: 2
+fairy: 1
+fighting: 1
+fire: 3
+flying: 0
+ghost: 1
+grass: 2
+ground: 0
+ice: 1
+normal: 0
+poison: 1
+psychic: 2
+rock: 1
+steel: 2
+water: 2
+
+Winning Team Weakness Counts (Dictionary):
+bug: 0
+dark: 1
+dragon: 1
+electric: 2
+fairy: 1
+fighting: 1
+fire: 1
+flying: 0
+ghost: 1
+grass: 1
+ground: 1
+ice: 1
+normal: 0
+poison: 1
+psychic: 0
+rock: 1
+steel: 1
+water: 1
+
+Losing Team Weakness Counts (Dictionary):
+bug: 1
+dark: 0
+dragon: 2
+electric: 0
+fairy: 3
+fighting: 1
+fire: 0
+flying: 1
+ghost: 1
+grass: 1
+ground: 1
+ice: 2
+normal: 0
+poison: 1
+psychic: 1
+rock: 1
+steel: 1
+water: 2
+
+Winning Team Resisting Counts (List):
+[1, 1, 1, 1, 1, 1, 1, 2, 2, 2, 2, 2, 2, 3, 3, 3, 3, 3]
+
+Losing Team Resisting Counts (List):
+[0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 2, 2, 2, 2, 2, 2, 2, 3]
+
+Winning Team Weakness Counts (List):
+[2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0]
+
+Losing Team Weakness Counts (List):
+[3, 2, 2, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0]
+
+Total Stats for Winning Team:
+Hp: 523
+Atk: 525
+Def: 473
+Spa: 445
+Spd: 400
+Spe: 377
+
+Total Stats for Losing Team:
+Hp: 504
+Atk: 503
+Def: 532
+Spa: 383
+Spd: 422
+Spe: 446

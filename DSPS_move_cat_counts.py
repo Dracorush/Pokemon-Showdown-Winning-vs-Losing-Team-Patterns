@@ -1,5 +1,7 @@
 import os
 import plotly.graph_objects as go
+import plotly.offline as pyo
+
 
 # Directory containing the text files
 directory = "gen9ou-stat_summary"

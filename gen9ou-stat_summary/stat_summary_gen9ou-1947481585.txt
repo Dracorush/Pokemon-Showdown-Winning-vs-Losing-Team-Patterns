@@ -1,0 +1,151 @@
+Rockworker's initial rating: 1171, final rating: 1197
+itsagha_'s initial rating: 1181, final rating: 1155
+
+
+Winning Team: Corviknight, Gliscor, Landorus-Therian, Tyranitar, Basculegion, Sandy Shocks
+Losing Team: Aron, Dragapult, Tyranitar, Dondozo, Zapdos, Ceruledge
+
+
+p1 (Winner) moves:  Ice Fang, Knock Off, Swords Dance, U-turn, Aqua Jet, Spikes, Brave Bird, Thunderbolt, Earthquake, Wave Crash
+p2 (Loser) moves:  Dragon Darts, Swords Dance, Avalanche, Ivy Cudgel, Discharge, Wave Crash, Ancient Power
+
+
+p1 (Winner) Move Category Counts:
+Entry Hazard Moves: 1
+Entry Hazard Clear Moves: 0
+Priority Moves: 1
+Runswitch Moves: 1
+Status Moves: 0
+
+
+p2 (Loser) Move Category Counts:
+Entry Hazard Moves: 0
+Entry Hazard Clear Moves: 0
+Priority Moves: 0
+Runswitch Moves: 0
+Status Moves: 0
+
+Pokémon Types for Winning Team:
+Corviknight: Flying, Steel
+Gliscor: Ground, Flying
+Landorus-Therian: Ground, Flying
+Tyranitar: Rock, Dark
+Basculegion: Water, Ghost
+Sandy Shocks: Electric, Ground
+
+Pokémon Types for Losing Team:
+Aron: Steel, Rock
+Dragapult: Dragon, Ghost
+Tyranitar: Rock, Dark
+Dondozo: Water
+Zapdos: Electric, Flying
+Ceruledge: Fire, Ghost
+
+
+Winning Team Resisting Counts (Dictionary):
+bug: 4
+dark: 1
+dragon: 1
+electric: 3
+fairy: 1
+fighting: 3
+fire: 2
+flying: 3
+ghost: 1
+grass: 1
+ground: 3
+ice: 1
+normal: 3
+poison: 6
+psychic: 2
+rock: 1
+steel: 3
+water: 1
+
+Losing Team Resisting Counts (Dictionary):
+bug: 3
+dark: 1
+dragon: 0
+electric: 1
+fairy: 1
+fighting: 3
+fire: 4
+flying: 2
+ghost: 1
+grass: 3
+ground: 1
+ice: 2
+normal: 3
+poison: 3
+psychic: 1
+rock: 0
+steel: 3
+water: 2
+
+Winning Team Weakness Counts (Dictionary):
+bug: 1
+dark: 1
+dragon: 0
+electric: 2
+fairy: 1
+fighting: 1
+fire: 1
+flying: 0
+ghost: 1
+grass: 3
+ground: 2
+ice: 3
+normal: 0
+poison: 0
+psychic: 0
+rock: 0
+steel: 1
+water: 4
+
+Losing Team Weakness Counts (Dictionary):
+bug: 1
+dark: 2
+dragon: 1
+electric: 1
+fairy: 2
+fighting: 1
+fire: 0
+flying: 0
+ghost: 2
+grass: 2
+ground: 2
+ice: 2
+normal: 0
+poison: 0
+psychic: 0
+rock: 2
+steel: 1
+water: 2
+
+Winning Team Resisting Counts (List):
+[1, 1, 1, 1, 1, 1, 1, 1, 2, 2, 3, 3, 3, 3, 3, 3, 4, 6]
+
+Losing Team Resisting Counts (List):
+[0, 0, 1, 1, 1, 1, 1, 1, 2, 2, 2, 3, 3, 3, 3, 3, 3, 4]
+
+Winning Team Weakness Counts (List):
+[4, 3, 3, 2, 2, 1, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0]
+
+Losing Team Weakness Counts (List):
+[2, 2, 2, 2, 2, 2, 2, 2, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0]
+
+Total Stats for Winning Team:
+Hp: 567
+Atk: 654
+Def: 592
+Spa: 499
+Spd: 500
+Spe: 493
+
+Total Stats for Losing Team:
+Hp: 503
+Atk: 569
+Def: 465
+Spa: 445
+Spd: 430
+Spe: 423
