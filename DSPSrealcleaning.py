@@ -7,6 +7,9 @@ import shutil
 source_directory = "gen9ou-matchjsons"
 filtered_directory = "filteredgen9ou-matchjsons"
 
+# Create the filtered directory if it doesn't exist
+os.makedirs(filtered_directory, exist_ok=True)
+
 # Loop through all JSON files in the source directory
 for filename in os.listdir(source_directory):
     if filename.endswith(".json"):
