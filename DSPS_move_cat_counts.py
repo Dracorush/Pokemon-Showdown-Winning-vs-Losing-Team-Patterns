@@ -1,6 +1,8 @@
 import os
 import plotly.graph_objects as go
-print("Hello World")
+import plotly.offline as pyo
+
+
 # Directory containing the text files
 directory = "gen9ou-stat_summary"
 
@@ -77,7 +79,13 @@ fig.update_layout(
 
 # Enable scroll zoom
 config = {'scrollZoom': True}
-fig.show(config=config)
+
+# Save the figure as an HTML file
+html_file_name = "status_moves_chart.html"
+pyo.plot(fig, filename=html_file_name, auto_open=False, config=config)
+
+# Display the HTML file path
+print(f"Chart saved as: {html_file_name}")
 
 
 import os
@@ -159,8 +167,13 @@ fig.update_layout(
 
 # Enable scroll zoom
 config = {'scrollZoom': True}
-fig.show(config=config)
 
+# Save the figure as an HTML file
+html_file_name = "runswitch_moves_chart.html"
+pyo.plot(fig, filename=html_file_name, auto_open=False, config=config)
+
+# Display the HTML file path
+print(f"Chart saved as: {html_file_name}")
 
 import os
 import plotly.graph_objects as go
@@ -241,7 +254,13 @@ fig.update_layout(
 
 # Enable scroll zoom
 config = {'scrollZoom': True}
-fig.show(config=config)
+
+# Save the figure as an HTML file
+html_file_name = "priority_moves_chart.html"
+pyo.plot(fig, filename=html_file_name, auto_open=False, config=config)
+
+# Display the HTML file path
+print(f"Chart saved as: {html_file_name}")
 
 
 import os
@@ -331,8 +350,13 @@ fig.update_layout(
 
 # Enable scroll zoom
 config = {'scrollZoom': True}
-fig.show(config=config)
 
+# Save the figure as an HTML file
+html_file_name = "entry_hazard_clear_moves_chart.html"
+pyo.plot(fig, filename=html_file_name, auto_open=False, config=config)
+
+# Display the HTML file path
+print(f"Chart saved as: {html_file_name}")
 
 import os
 import plotly.graph_objects as go
@@ -421,4 +445,10 @@ fig.update_layout(
 
 # Enable scroll zoom
 config = {'scrollZoom': True}
-fig.show(config=config)
+
+# Save the figure as an HTML file
+html_file_name = "entry_hazard_moves_chart.html"
+pyo.plot(fig, filename=html_file_name, auto_open=False, config=config)
+
+# Display the HTML file path
+print(f"Chart saved as: {html_file_name}")
