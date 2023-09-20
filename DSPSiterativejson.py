@@ -52,12 +52,19 @@ for anchor_tag in anchor_tags:
     unique_number = href.split("/")[-1]
     battle_numbers.append(unique_number)
 
+# Specify the directory name
+directory_name = "gen9ou-matchjsons"
+
+# Create the directory if it doesn't exist
+if not os.path.exists(directory_name):
+    os.makedirs(directory_name)
+
 # Print the extracted battle numbers
 for number in battle_numbers:
     try:
         url = "https://replay.pokemonshowdown.com/" + number + ".json"
         r = requests.get(url)
-        filename = "gen9ou-matchjsons/" + number + ".json"
+        filename = os.path.join(directory_name, number + ".json")
         with open(filename, 'w') as f:
             json.dump(r.json(), f)
     except Exception as e:
