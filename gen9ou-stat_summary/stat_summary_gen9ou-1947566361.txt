@@ -1,0 +1,151 @@
+cup8998's initial rating: 1244, final rating: 1225
+Ninjabsol's initial rating: 1322, final rating: 1338
+
+
+Winning Team: Polteageist, Hatterene, Ditto, Snorlax, Mandibuzz, Chesnaught
+Losing Team: Iron Treads, Moltres, Sandy Shocks, Crawdaunt, Gardevoir, Conkeldurr
+
+
+p1 (Loser) moves:  Mystical Fire, Liquidation, Iron Head, Psyshock, Knock Off, Stealth Rock, Fire Blast, Drain Punch, Volt Switch, Aqua Jet, Earth Power, Air Slash, Draining Kiss, Tailwind
+p2 (Winner) moves:  Draining Kiss, Body Press, Foul Play, Mystical Fire, Shadow Ball, Calm Mind, Shell Smash, Defog, Knock Off, Tera Blast, Facade, Leech Seed, Earth Power, Air Slash, Earthquake, Roost
+
+
+p2 (Winner) Move Category Counts:
+Entry Hazard Moves: 1
+Entry Hazard Clear Moves: 0
+Priority Moves: 1
+Runswitch Moves: 1
+Status Moves: 0
+
+
+p1 (Loser) Move Category Counts:
+Entry Hazard Moves: 0
+Entry Hazard Clear Moves: 1
+Priority Moves: 0
+Runswitch Moves: 0
+Status Moves: 0
+
+Pokémon Types for Winning Team:
+Polteageist: Ghost
+Hatterene: Psychic, Fairy
+Ditto: Normal
+Snorlax: Normal
+Mandibuzz: Dark, Flying
+Chesnaught: Grass, Fighting
+
+Pokémon Types for Losing Team:
+Iron Treads: Ground, Steel
+Moltres: Fire, Flying
+Sandy Shocks: Electric, Ground
+Crawdaunt: Water, Dark
+Gardevoir: Psychic, Fairy
+Conkeldurr: Fighting
+
+
+Winning Team Resisting Counts (Dictionary):
+bug: 1
+dark: 2
+dragon: 1
+electric: 1
+fairy: 0
+fighting: 2
+fire: 0
+flying: 0
+ghost: 3
+grass: 2
+ground: 2
+ice: 0
+normal: 1
+poison: 1
+psychic: 2
+rock: 1
+steel: 0
+water: 1
+
+Losing Team Resisting Counts (Dictionary):
+bug: 3
+dark: 2
+dragon: 2
+electric: 2
+fairy: 2
+fighting: 2
+fire: 2
+flying: 2
+ghost: 1
+grass: 1
+ground: 1
+ice: 1
+normal: 1
+poison: 2
+psychic: 3
+rock: 3
+steel: 4
+water: 1
+
+Winning Team Weakness Counts (Dictionary):
+bug: 0
+dark: 1
+dragon: 0
+electric: 1
+fairy: 2
+fighting: 2
+fire: 1
+flying: 1
+ghost: 2
+grass: 0
+ground: 0
+ice: 2
+normal: 0
+poison: 2
+psychic: 1
+rock: 1
+steel: 1
+water: 0
+
+Losing Team Weakness Counts (Dictionary):
+bug: 1
+dark: 0
+dragon: 0
+electric: 2
+fairy: 2
+fighting: 2
+fire: 1
+flying: 1
+ghost: 1
+grass: 2
+ground: 2
+ice: 1
+normal: 0
+poison: 1
+psychic: 1
+rock: 1
+steel: 1
+water: 3
+
+Winning Team Resisting Counts (List):
+[0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 2, 2, 2, 2, 2, 3]
+
+Losing Team Resisting Counts (List):
+[1, 1, 1, 1, 1, 1, 2, 2, 2, 2, 2, 2, 2, 2, 3, 3, 3, 4]
+
+Winning Team Weakness Counts (List):
+[2, 2, 2, 2, 2, 1, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0]
+
+Losing Team Weakness Counts (List):
+[3, 2, 2, 2, 2, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 0, 0]
+
+Total Stats for Winning Team:
+Hp: 523
+Atk: 485
+Def: 500
+Spa: 512
+Spd: 545
+Spe: 321
+
+Total Stats for Losing Team:
+Hp: 501
+Atk: 618
+Def: 552
+Spa: 588
+Spd: 475
+Spe: 477

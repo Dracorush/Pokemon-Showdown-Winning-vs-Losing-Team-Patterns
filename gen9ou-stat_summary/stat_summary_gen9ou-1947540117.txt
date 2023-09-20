@@ -1,0 +1,151 @@
+Dragon Gucci's initial rating: 1417, final rating: 1435
+Caesura18's initial rating: 1390, final rating: 1372
+
+
+Winning Team: Manaphy, Shaymin, Moltres, Clodsire, Mamoswine, Dragapult
+Losing Team: Weavile, Slowking-Galar, Dragapult, Cinderace, Rotom-Wash, Enamorus
+
+
+p1 (Winner) moves:  Toxic, Take Heart, Rest, Scald, Seed Flare, Stealth Rock, Knock Off, Ice Shard, U-turn, Healing Wish, Recover, Hex, Dragon Darts, Sleep Talk, Icicle Crash, Substitute
+p2 (Loser) moves:  Future Sight, Hydro Pump, Shadow Ball, Ice Shard, Knock Off, Pyro Ball, U-turn, Court Change, Chilly Reception, Will-O-Wisp, Psychic, Ice Spinner, Moonblast, Sludge Bomb
+
+
+p1 (Winner) Move Category Counts:
+Entry Hazard Moves: 1
+Entry Hazard Clear Moves: 0
+Priority Moves: 1
+Runswitch Moves: 1
+Status Moves: 1
+
+
+p2 (Loser) Move Category Counts:
+Entry Hazard Moves: 0
+Entry Hazard Clear Moves: 0
+Priority Moves: 1
+Runswitch Moves: 1
+Status Moves: 1
+
+Pokémon Types for Winning Team:
+Manaphy: Water
+Shaymin: Grass
+Moltres: Fire, Flying
+Clodsire: Poison, Ground
+Mamoswine: Ice, Ground
+Dragapult: Dragon, Ghost
+
+Pokémon Types for Losing Team:
+Weavile: Dark, Ice
+Slowking-Galar: Poison, Psychic
+Dragapult: Dragon, Ghost
+Cinderace: Fire
+Rotom-Wash: Electric, Water
+Enamorus: Fairy, Flying
+
+
+Winning Team Resisting Counts (Dictionary):
+bug: 3
+dark: 0
+dragon: 0
+electric: 4
+fairy: 2
+fighting: 3
+fire: 3
+flying: 0
+ghost: 0
+grass: 3
+ground: 2
+ice: 1
+normal: 1
+poison: 3
+psychic: 0
+rock: 1
+steel: 2
+water: 3
+
+Losing Team Resisting Counts (Dictionary):
+bug: 3
+dark: 2
+dragon: 1
+electric: 1
+fairy: 2
+fighting: 3
+fire: 3
+flying: 1
+ghost: 1
+grass: 4
+ground: 1
+ice: 3
+normal: 1
+poison: 2
+psychic: 1
+rock: 0
+steel: 2
+water: 2
+
+Winning Team Weakness Counts (Dictionary):
+bug: 1
+dark: 1
+dragon: 1
+electric: 2
+fairy: 1
+fighting: 1
+fire: 2
+flying: 1
+ghost: 1
+grass: 2
+ground: 1
+ice: 3
+normal: 0
+poison: 1
+psychic: 1
+rock: 1
+steel: 1
+water: 3
+
+Losing Team Weakness Counts (Dictionary):
+bug: 1
+dark: 2
+dragon: 1
+electric: 1
+fairy: 2
+fighting: 1
+fire: 1
+flying: 0
+ghost: 2
+grass: 1
+ground: 3
+ice: 2
+normal: 0
+poison: 1
+psychic: 0
+rock: 3
+steel: 2
+water: 1
+
+Winning Team Resisting Counts (List):
+[0, 0, 0, 0, 0, 1, 1, 1, 2, 2, 2, 3, 3, 3, 3, 3, 3, 4]
+
+Losing Team Resisting Counts (List):
+[0, 1, 1, 1, 1, 1, 1, 1, 2, 2, 2, 2, 2, 3, 3, 3, 3, 4]
+
+Winning Team Weakness Counts (List):
+[3, 3, 2, 2, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0]
+
+Losing Team Weakness Counts (List):
+[3, 3, 2, 2, 2, 2, 2, 1, 1, 1, 1, 1, 1, 1, 1, 0, 0, 0]
+
+Total Stats for Winning Team:
+Hp: 618
+Atk: 625
+Def: 505
+Spa: 540
+Spd: 520
+Spe: 532
+
+Total Stats for Losing Team:
+Hp: 457
+Atk: 601
+Def: 472
+Spa: 560
+Spd: 532
+Spe: 608

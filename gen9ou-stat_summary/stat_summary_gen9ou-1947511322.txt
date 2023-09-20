@@ -1,0 +1,151 @@
+PauloAmogus's initial rating: 1156, final rating: 1186
+Gamb1tFate's initial rating: 1231, final rating: 1201
+
+
+Winning Team: Great Tusk, Kingambit, Tinkaton, Maushold-Four, Ogerpon-Wellspring, Iron Valiant
+Losing Team: Torkoal, Great Tusk, Walking Wake, Ogerpon-Hearthflame, Slowking-Galar, Sandy Shocks
+
+
+p1 (Winner) moves:  Population Bomb, Tidy Up
+p2 (Loser) moves:  Stealth Rock, Lava Plume, Yawn
+
+
+p1 (Winner) Move Category Counts:
+Entry Hazard Moves: 0
+Entry Hazard Clear Moves: 1
+Priority Moves: 0
+Runswitch Moves: 0
+Status Moves: 0
+
+
+p2 (Loser) Move Category Counts:
+Entry Hazard Moves: 1
+Entry Hazard Clear Moves: 0
+Priority Moves: 0
+Runswitch Moves: 0
+Status Moves: 1
+
+Pokémon Types for Winning Team:
+Great Tusk: Ground, Fighting
+Kingambit: Dark, Steel
+Tinkaton: Fairy, Steel
+Maushold-Four: Normal
+Ogerpon-Wellspring: No type information
+Iron Valiant: Fairy, Fighting
+
+Pokémon Types for Losing Team:
+Torkoal: Fire
+Great Tusk: Ground, Fighting
+Walking Wake: Water, Dragon
+Ogerpon-Hearthflame: No type information
+Slowking-Galar: Poison, Psychic
+Sandy Shocks: Electric, Ground
+
+
+Winning Team Resisting Counts (Dictionary):
+bug: 3
+dark: 4
+dragon: 3
+electric: 1
+fairy: 1
+fighting: 1
+fire: 0
+flying: 2
+ghost: 2
+grass: 2
+ground: 0
+ice: 2
+normal: 2
+poison: 3
+psychic: 2
+rock: 4
+steel: 1
+water: 0
+
+Losing Team Resisting Counts (Dictionary):
+bug: 2
+dark: 1
+dragon: 0
+electric: 2
+fairy: 2
+fighting: 1
+fire: 2
+flying: 1
+ghost: 0
+grass: 2
+ground: 0
+ice: 1
+normal: 0
+poison: 3
+psychic: 0
+rock: 2
+steel: 3
+water: 1
+
+Winning Team Weakness Counts (Dictionary):
+bug: 0
+dark: 0
+dragon: 0
+electric: 0
+fairy: 2
+fighting: 2
+fire: 2
+flying: 2
+ghost: 0
+grass: 1
+ground: 2
+ice: 1
+normal: 0
+poison: 1
+psychic: 2
+rock: 0
+steel: 1
+water: 1
+
+Losing Team Weakness Counts (Dictionary):
+bug: 0
+dark: 1
+dragon: 1
+electric: 0
+fairy: 2
+fighting: 0
+fire: 0
+flying: 1
+ghost: 1
+grass: 2
+ground: 3
+ice: 2
+normal: 0
+poison: 0
+psychic: 1
+rock: 1
+steel: 0
+water: 3
+
+Winning Team Resisting Counts (List):
+[0, 0, 0, 1, 1, 1, 1, 2, 2, 2, 2, 2, 2, 3, 3, 3, 4, 4]
+
+Losing Team Resisting Counts (List):
+[0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 2, 2, 2, 2, 2, 2, 3, 3]
+
+Winning Team Weakness Counts (List):
+[2, 2, 2, 2, 2, 2, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0]
+
+Losing Team Weakness Counts (List):
+[3, 3, 2, 2, 2, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0]
+
+Total Stats for Winning Team:
+Hp: 448
+Atk: 546
+Def: 488
+Spa: 368
+Spd: 378
+Spe: 458
+
+Total Stats for Losing Team:
+Hp: 464
+Atk: 445
+Def: 539
+Spa: 494
+Spd: 401
+Spe: 347

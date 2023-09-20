@@ -1,0 +1,151 @@
+shenon123's initial rating: 1060, final rating: 1044
+ssssssssssbbbbbb's initial rating: 1111, final rating: 1132
+
+
+Winning Team: Ogerpon-Hearthflame, Slowking-Galar, Great Tusk, Iron Moth, Dondozo, Mandibuzz
+Losing Team: Samurott-Hisui, Iron Valiant, Great Tusk, Gholdengo, Ogerpon-Wellspring, Iron Moth
+
+
+p1 (Loser) moves:  Wood Hammer, Make It Rain, Shadow Ball, Knock Off, Sacred Sword, Ceaseless Edge, Ivy Cudgel, Headlong Rush, Aura Sphere, Razor Shell, Thunder Wave
+p2 (Winner) moves:  Trailblaze, Curse, Future Sight, Liquidation, Defog, U-turn, Fiery Dance, Ivy Cudgel, Headlong Rush, Ice Spinner
+
+
+p2 (Winner) Move Category Counts:
+Entry Hazard Moves: 0
+Entry Hazard Clear Moves: 0
+Priority Moves: 0
+Runswitch Moves: 0
+Status Moves: 1
+
+
+p1 (Loser) Move Category Counts:
+Entry Hazard Moves: 0
+Entry Hazard Clear Moves: 1
+Priority Moves: 0
+Runswitch Moves: 1
+Status Moves: 0
+
+Pokémon Types for Winning Team:
+Ogerpon-Hearthflame: No type information
+Slowking-Galar: Poison, Psychic
+Great Tusk: Ground, Fighting
+Iron Moth: Fire, Poison
+Dondozo: Water
+Mandibuzz: Dark, Flying
+
+Pokémon Types for Losing Team:
+Samurott-Hisui: Water, Dark
+Iron Valiant: Fairy, Fighting
+Great Tusk: Ground, Fighting
+Gholdengo: Steel, Ghost
+Ogerpon-Wellspring: No type information
+Iron Moth: Fire, Poison
+
+
+Winning Team Resisting Counts (Dictionary):
+bug: 2
+dark: 2
+dragon: 0
+electric: 1
+fairy: 2
+fighting: 2
+fire: 2
+flying: 0
+ghost: 1
+grass: 3
+ground: 1
+ice: 2
+normal: 0
+poison: 3
+psychic: 1
+rock: 1
+steel: 2
+water: 1
+
+Losing Team Resisting Counts (Dictionary):
+bug: 4
+dark: 3
+dragon: 2
+electric: 1
+fairy: 2
+fighting: 3
+fire: 2
+flying: 1
+ghost: 1
+grass: 2
+ground: 0
+ice: 3
+normal: 1
+poison: 3
+psychic: 2
+rock: 3
+steel: 3
+water: 1
+
+Winning Team Weakness Counts (Dictionary):
+bug: 0
+dark: 1
+dragon: 0
+electric: 2
+fairy: 2
+fighting: 0
+fire: 0
+flying: 1
+ghost: 1
+grass: 2
+ground: 2
+ice: 2
+normal: 0
+poison: 0
+psychic: 2
+rock: 2
+steel: 0
+water: 2
+
+Losing Team Weakness Counts (Dictionary):
+bug: 1
+dark: 1
+dragon: 0
+electric: 1
+fairy: 3
+fighting: 1
+fire: 1
+flying: 2
+ghost: 1
+grass: 2
+ground: 2
+ice: 1
+normal: 0
+poison: 1
+psychic: 3
+rock: 1
+steel: 1
+water: 2
+
+Winning Team Resisting Counts (List):
+[0, 0, 0, 1, 1, 1, 1, 1, 1, 2, 2, 2, 2, 2, 2, 2, 3, 3]
+
+Losing Team Resisting Counts (List):
+[0, 1, 1, 1, 1, 1, 2, 2, 2, 2, 2, 3, 3, 3, 3, 3, 3, 4]
+
+Winning Team Weakness Counts (List):
+[2, 2, 2, 2, 2, 2, 2, 2, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0]
+
+Losing Team Weakness Counts (List):
+[3, 3, 2, 2, 2, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 0]
+
+Total Stats for Winning Team:
+Hp: 550
+Atk: 431
+Def: 491
+Spa: 423
+Spd: 433
+Spe: 342
+
+Total Stats for Losing Team:
+Hp: 446
+Atk: 499
+Def: 456
+Spa: 546
+Spd: 379
+Spe: 482

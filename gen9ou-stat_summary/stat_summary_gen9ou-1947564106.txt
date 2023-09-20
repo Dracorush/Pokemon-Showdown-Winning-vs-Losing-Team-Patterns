@@ -1,0 +1,151 @@
+stooshbag2's initial rating: 1297, final rating: 1324
+Tykcd's initial rating: 1321, final rating: 1300
+
+
+Winning Team: Samurott-Hisui, Iron Valiant, Great Tusk, Gholdengo, Slowking-Galar, Ogerpon-Hearthflame
+Losing Team: Ninetales-Alola, Jirachi, Ogerpon-Hearthflame, Iron Moth, Iron Valiant, Manaphy
+
+
+p1 (Winner) moves:  Aqua Cutter, Make It Rain, Future Sight, Shadow Ball, Surf, Ivy Cudgel, Headlong Rush, Sludge Bomb
+p2 (Loser) moves:  Trailblaze, Scald, Shadow Ball, Zen Headbutt, Calm Mind, Sludge Wave, Toxic Spikes, U-turn, Fiery Dance, Tail Glow, Ivy Cudgel, Dazzling Gleam
+
+
+p1 (Winner) Move Category Counts:
+Entry Hazard Moves: 0
+Entry Hazard Clear Moves: 0
+Priority Moves: 0
+Runswitch Moves: 0
+Status Moves: 0
+
+
+p2 (Loser) Move Category Counts:
+Entry Hazard Moves: 1
+Entry Hazard Clear Moves: 0
+Priority Moves: 0
+Runswitch Moves: 1
+Status Moves: 0
+
+Pokémon Types for Winning Team:
+Samurott-Hisui: Water, Dark
+Iron Valiant: Fairy, Fighting
+Great Tusk: Ground, Fighting
+Gholdengo: Steel, Ghost
+Slowking-Galar: Poison, Psychic
+Ogerpon-Hearthflame: No type information
+
+Pokémon Types for Losing Team:
+Ninetales-Alola: Ice, Fairy
+Jirachi: Steel, Psychic
+Ogerpon-Hearthflame: No type information
+Iron Moth: Fire, Poison
+Iron Valiant: Fairy, Fighting
+Manaphy: Water
+
+
+Winning Team Resisting Counts (Dictionary):
+bug: 3
+dark: 3
+dragon: 2
+electric: 1
+fairy: 2
+fighting: 3
+fire: 1
+flying: 1
+ghost: 1
+grass: 2
+ground: 0
+ice: 2
+normal: 1
+poison: 3
+psychic: 2
+rock: 3
+steel: 2
+water: 1
+
+Losing Team Resisting Counts (Dictionary):
+bug: 3
+dark: 2
+dragon: 3
+electric: 0
+fairy: 2
+fighting: 2
+fire: 2
+flying: 1
+ghost: 0
+grass: 2
+ground: 0
+ice: 4
+normal: 1
+poison: 2
+psychic: 1
+rock: 2
+steel: 3
+water: 1
+
+Winning Team Weakness Counts (Dictionary):
+bug: 1
+dark: 2
+dragon: 0
+electric: 1
+fairy: 3
+fighting: 1
+fire: 1
+flying: 2
+ghost: 2
+grass: 2
+ground: 2
+ice: 1
+normal: 0
+poison: 1
+psychic: 2
+rock: 0
+steel: 1
+water: 1
+
+Losing Team Weakness Counts (Dictionary):
+bug: 0
+dark: 1
+dragon: 0
+electric: 1
+fairy: 1
+fighting: 0
+fire: 2
+flying: 1
+ghost: 1
+grass: 1
+ground: 2
+ice: 0
+normal: 0
+poison: 2
+psychic: 2
+rock: 2
+steel: 2
+water: 1
+
+Winning Team Resisting Counts (List):
+[0, 1, 1, 1, 1, 1, 1, 2, 2, 2, 2, 2, 2, 3, 3, 3, 3, 3]
+
+Losing Team Resisting Counts (List):
+[0, 0, 0, 1, 1, 1, 1, 2, 2, 2, 2, 2, 2, 2, 3, 3, 3, 4]
+
+Winning Team Weakness Counts (List):
+[3, 2, 2, 2, 2, 2, 2, 1, 1, 1, 1, 1, 1, 1, 1, 0, 0, 0]
+
+Losing Team Weakness Counts (List):
+[2, 2, 2, 2, 2, 2, 1, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0]
+
+Total Stats for Winning Team:
+Hp: 461
+Atk: 494
+Def: 476
+Spa: 516
+Spd: 379
+Spe: 402
+
+Total Stats for Losing Team:
+Hp: 427
+Atk: 467
+Def: 425
+Spa: 541
+Spd: 470
+Spe: 535

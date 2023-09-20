@@ -1,0 +1,151 @@
+mooood swings's initial rating: 1045, final rating: 1026
+SirGallade98's initial rating: 1000, final rating: 1045
+
+
+Winning Team: Amoonguss, Mamoswine, Pelipper, Zapdos, Sandslash, Gholdengo
+Losing Team: Ogerpon-Hearthflame, Dragapult, Toxapex, Great Tusk, Hatterene, Moltres-Galar
+
+
+p1 (Loser) moves:  Toxic, Draco Meteor, Mystical Fire, Calm Mind, Nasty Plot, Surf, Ivy Cudgel, Recover, Draining Kiss, Substitute
+p2 (Winner) moves:  Tailwind, Toxic, Icicle Spear, Make It Rain, Thunder, Shadow Ball, Ice Shard, U-turn, Hurricane, Roost, Substitute
+
+
+p2 (Winner) Move Category Counts:
+Entry Hazard Moves: 0
+Entry Hazard Clear Moves: 0
+Priority Moves: 0
+Runswitch Moves: 0
+Status Moves: 1
+
+
+p1 (Loser) Move Category Counts:
+Entry Hazard Moves: 0
+Entry Hazard Clear Moves: 0
+Priority Moves: 1
+Runswitch Moves: 1
+Status Moves: 1
+
+Pokémon Types for Winning Team:
+Amoonguss: Grass, Poison
+Mamoswine: Ice, Ground
+Pelipper: Water, Flying
+Zapdos: Electric, Flying
+Sandslash: Ground
+Gholdengo: Steel, Ghost
+
+Pokémon Types for Losing Team:
+Ogerpon-Hearthflame: No type information
+Dragapult: Dragon, Ghost
+Toxapex: Poison, Water
+Great Tusk: Ground, Fighting
+Hatterene: Psychic, Fairy
+Moltres-Galar: Dark, Flying
+
+
+Winning Team Resisting Counts (Dictionary):
+bug: 3
+dark: 0
+dragon: 1
+electric: 3
+fairy: 2
+fighting: 4
+fire: 1
+flying: 2
+ghost: 0
+grass: 3
+ground: 2
+ice: 1
+normal: 1
+poison: 3
+psychic: 1
+rock: 2
+steel: 3
+water: 2
+
+Losing Team Resisting Counts (Dictionary):
+bug: 3
+dark: 2
+dragon: 1
+electric: 2
+fairy: 1
+fighting: 3
+fire: 2
+flying: 0
+ghost: 1
+grass: 2
+ground: 1
+ice: 1
+normal: 1
+poison: 3
+psychic: 2
+rock: 1
+steel: 1
+water: 2
+
+Winning Team Weakness Counts (Dictionary):
+bug: 0
+dark: 1
+dragon: 0
+electric: 1
+fairy: 0
+fighting: 1
+fire: 3
+flying: 1
+ghost: 1
+grass: 2
+ground: 1
+ice: 3
+normal: 0
+poison: 0
+psychic: 1
+rock: 2
+steel: 1
+water: 2
+
+Losing Team Weakness Counts (Dictionary):
+bug: 0
+dark: 1
+dragon: 1
+electric: 2
+fairy: 3
+fighting: 0
+fire: 0
+flying: 1
+ghost: 2
+grass: 1
+ground: 1
+ice: 3
+normal: 0
+poison: 1
+psychic: 2
+rock: 1
+steel: 1
+water: 1
+
+Winning Team Resisting Counts (List):
+[0, 0, 1, 1, 1, 1, 1, 2, 2, 2, 2, 2, 3, 3, 3, 3, 3, 4]
+
+Losing Team Resisting Counts (List):
+[0, 1, 1, 1, 1, 1, 1, 1, 1, 2, 2, 2, 2, 2, 2, 3, 3, 3]
+
+Winning Team Weakness Counts (List):
+[3, 3, 2, 2, 2, 1, 1, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0]
+
+Losing Team Weakness Counts (List):
+[3, 3, 2, 2, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0]
+
+Total Stats for Winning Team:
+Hp: 536
+Atk: 515
+Def: 540
+Spa: 553
+Spd: 446
+Spe: 424
+
+Total Stats for Losing Team:
+Hp: 400
+Atk: 489
+Def: 543
+Spa: 442
+Spd: 498
+Spe: 383
