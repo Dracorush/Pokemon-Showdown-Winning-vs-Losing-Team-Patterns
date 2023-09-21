@@ -1,6 +1,6 @@
 import os
 import plotly.graph_objects as go
-print("Hello World")
+
 # Directory containing the text files
 directory = "gen9ou-stat_summary"
 
