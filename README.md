@@ -3,13 +3,7 @@
 ## How does it work?
 The battle info is collected by locally storing the json file associated with each battle on the Gen 9 OU Pokemon Showdown Replay page. Then the data is cleaned based on different criteria, so that outliers are removed. Relevant info is then extracted from each json and converted to text files. Data in these text files are compared to each other across several metrics and are graphed for visualization.
 ## What do I need to install for the code to run?
-Google Chrome \n
-Selenium \n
-Requests \n
-BeautifulSoup4 \n
-FuzzyWuzzy \n
-Plotly \n
-Pandas \n
+Google Chrome, Selenium, Requests, BeautifulSoup4, FuzzyWuzzy, Plotly, Pandas
 ## Steps to run the code
 #### 1. Open the zip file containing all of the code.
 #### 2. Enter the directory containing Pokemon-Showdown-Winning-vs-Losing-Team-Patterns-main on your terminal using the cd command. Then enter this directory by running cd Pokemon-Showdown-Winning-vs-Losing-Team-Patterns on your terminal.
