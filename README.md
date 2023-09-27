@@ -14,7 +14,7 @@ This process removes any json files which don't have 6 pokemon on each team and 
 **5. Run DSPSjson2extraction.py.** <br>
 This will extract relevant info from each json file, and write it into a txt file for each json. These txt files are stored in a directory called gen9ou-stat_summary. <br>
 **6. Run any of the other DSPS files (DSPS_move_cat_counts.py, DSPS_rating_distribution.py, DSPS_stat_counts.py, DSPS_type_counts.py).** <br>
-You will see the output graph displayed on Plotly.
+You will see each output graph displayed on Plotly.
 
 Here is an example output graph comparing the number of status moves used by the Winning and Losing team across 10,000 games.
 
