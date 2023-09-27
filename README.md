@@ -17,4 +17,5 @@ This will extract relevant info from each json file, and write it into a txt fil
 You will see the output graph displayed on Plotly.
 
 Here is an example output graph comparing the number of status moves used by the Winning and Losing team across 10,000 games.
+
 ![Status_Moves_Graph](https://github.com/Dracorush/Pokemon-Showdown-Winning-vs-Losing-Team-Patterns/assets/24494800/938f5262-4bed-40e8-bd8e-eccdce1440db)
