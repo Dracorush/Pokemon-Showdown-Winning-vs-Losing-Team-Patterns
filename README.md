@@ -20,12 +20,12 @@ Here is an example output graph comparing the number of status moves used by the
 
 ![Status_Moves_Graph](https://github.com/Dracorush/Pokemon-Showdown-Winning-vs-Losing-Team-Patterns/assets/24494800/938f5262-4bed-40e8-bd8e-eccdce1440db)
 All example output graphs can be found through these links: <br>
-https://dracorush.github.io/Pokemon-Showdown-Winning-vs-Losing-Team-Patterns/docs/10,000_matches_example/rating_distribution/rating_distribution.html <br> <br>
-https://dracorush.github.io/Pokemon-Showdown-Winning-vs-Losing-Team-Patterns/docs/10,000_matches_example/move_cat/status_moves_chart.html <br> <br>
-https://dracorush.github.io/Pokemon-Showdown-Winning-vs-Losing-Team-Patterns/docs/10,000_matches_example/move_cat/runswitch_moves_chart.html <br> <br>
-https://dracorush.github.io/Pokemon-Showdown-Winning-vs-Losing-Team-Patterns/docs/10,000_matches_example/move_cat/priority_moves_chart.html <br> <br>
-https://dracorush.github.io/Pokemon-Showdown-Winning-vs-Losing-Team-Patterns/docs/10,000_matches_example/move_cat/entry_hazard_moves_chart.html <br> <br>
-https://dracorush.github.io/Pokemon-Showdown-Winning-vs-Losing-Team-Patterns/docs/10,000_matches_example/move_cat/entry_hazard_clear_moves_chart.html <br> <br>
-https://dracorush.github.io/Pokemon-Showdown-Winning-vs-Losing-Team-Patterns/docs/10,000_matches_example/stat_counts/stat_counts_chart.html <br> <br>
-https://dracorush.github.io/Pokemon-Showdown-Winning-vs-Losing-Team-Patterns/docs/10,000_matches_example/type_counts/difference_in_type_resists_scatterplot.html <br> <br>
-https://dracorush.github.io/Pokemon-Showdown-Winning-vs-Losing-Team-Patterns/docs/10,000_matches_example/type_counts/difference_in_type_weaknesses_scatterplot.html
+[Rating Distribution](https://dracorush.github.io/Pokemon-Showdown-Winning-vs-Losing-Team-Patterns/docs/10,000_matches_example/rating_distribution/rating_distribution.html) <br> <br>
+[Players vs Number of Status Moves](https://dracorush.github.io/Pokemon-Showdown-Winning-vs-Losing-Team-Patterns/docs/10,000_matches_example/move_cat/status_moves_chart.html) <br> <br>
+[Players vs Number of Runswitch Moves](https://dracorush.github.io/Pokemon-Showdown-Winning-vs-Losing-Team-Patterns/docs/10,000_matches_example/move_cat/runswitch_moves_chart.html) <br> <br>
+[Players vs Number of Priority Moves](https://dracorush.github.io/Pokemon-Showdown-Winning-vs-Losing-Team-Patterns/docs/10,000_matches_example/move_cat/priority_moves_chart.html) <br> <br>
+[Players vs Number of Entry Hazard Moves](https://dracorush.github.io/Pokemon-Showdown-Winning-vs-Losing-Team-Patterns/docs/10,000_matches_example/move_cat/entry_hazard_moves_chart.html) <br> <br>
+[Players vs Number of Entry Hazard Clear Moves](https://dracorush.github.io/Pokemon-Showdown-Winning-vs-Losing-Team-Patterns/docs/10,000_matches_example/move_cat/entry_hazard_clear_moves_chart.html) <br> <br>
+[Rating Estimate vs Difference in Stat Standard Deviations](https://dracorush.github.io/Pokemon-Showdown-Winning-vs-Losing-Team-Patterns/docs/10,000_matches_example/stat_counts/stat_counts_chart.html) <br> <br>
+[Rating Estimate vs Difference in Resist Counts](https://dracorush.github.io/Pokemon-Showdown-Winning-vs-Losing-Team-Patterns/docs/10,000_matches_example/type_counts/difference_in_type_resists_scatterplot.html) <br> <br>
+[Rating Estimate vs Difference in Weakness Counts](https://dracorush.github.io/Pokemon-Showdown-Winning-vs-Losing-Team-Patterns/docs/10,000_matches_example/type_counts/difference_in_type_weaknesses_scatterplot.html)
