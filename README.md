@@ -28,3 +28,4 @@ https://dracorush.github.io/Pokemon-Showdown-Winning-vs-Losing-Team-Patterns/doc
 https://dracorush.github.io/Pokemon-Showdown-Winning-vs-Losing-Team-Patterns/docs/10,000_matches_example/rating_distribution/rating_distribution.html <br> <br>
 https://dracorush.github.io/Pokemon-Showdown-Winning-vs-Losing-Team-Patterns/docs/10,000_matches_example/stat_counts/stat_counts_chart.html <br> <br>
 https://dracorush.github.io/Pokemon-Showdown-Winning-vs-Losing-Team-Patterns/docs/10,000_matches_example/type_counts/difference_in_type_resists_scatterplot.html <br> <br>
+https://dracorush.github.io/Pokemon-Showdown-Winning-vs-Losing-Team-Patterns/docs/10,000_matches_example/type_counts/difference_in_type_weaknesses_scatterplot.html
