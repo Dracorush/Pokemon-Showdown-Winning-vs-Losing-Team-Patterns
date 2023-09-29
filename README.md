@@ -16,11 +16,10 @@ This will extract relevant info from each json file, and write it into a txt fil
 **6. Run any of the other DSPS files (DSPS_move_cat_counts.py, DSPS_rating_distribution.py, DSPS_stat_counts.py, DSPS_type_counts.py).** <br>
 You will see each output graph displayed on Plotly.
 
-Here is an example output graph comparing the number of status moves used by the Winning and Losing team across 10,000 games.
+Here is an example output graph comparing the number of status moves used by the Winning and Losing team across 10,000 games. <br>
 
 ![Status_Moves_Graph](https://github.com/Dracorush/Pokemon-Showdown-Winning-vs-Losing-Team-Patterns/assets/24494800/938f5262-4bed-40e8-bd8e-eccdce1440db)
-<b>
-All output example graphs can be found through these links: <b>
+All output example graphs can be found through these links: <br>
 https://dracorush.github.io/Pokemon-Showdown-Winning-vs-Losing-Team-Patterns/docs/10,000_matches_example/move_cat/entry_hazard_clear_moves_chart.html
 https://dracorush.github.io/Pokemon-Showdown-Winning-vs-Losing-Team-Patterns/docs/10,000_matches_example/move_cat/entry_hazard_moves_chart.html
 https://dracorush.github.io/Pokemon-Showdown-Winning-vs-Losing-Team-Patterns/docs/10,000_matches_example/move_cat/priority_moves_chart.html
