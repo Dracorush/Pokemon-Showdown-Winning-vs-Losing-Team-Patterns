@@ -69,10 +69,3 @@ for number in battle_numbers:
             json.dump(r.json(), f)
     except Exception as e:
         os.remove(filename)
-        
-        
-        # print("Error occurred:", str(e))
-        # print(r.status_code)
-        # print(number)
-        # print("\n")
-
